@@ -20,4 +20,4 @@ cd TG-SMS-SENDER
 # TOOL IMAGE 
 <img src="https://raw.githubusercontent.com/MITUL-588/TEST/refs/heads/main/20240924_163223.png" alt="alt text" width="500" height="600"></a>
 # SETUP VIDEO 
-<b>▶𝚈𝚘𝚞𝚝𝚞𝚋𝚎 : </b><a href=""><b>𝙲𝚕𝚒𝚌𝚔 𝙷𝚎𝚛𝚎</b></a>
+<b>▶𝚈𝚘𝚞𝚝𝚞𝚋𝚎 : </b><a href="https://youtu.be/TeqisS2zrsU?si=YBFcWbqEYsEcTmJ2"><b>𝙲𝚕𝚒𝚌𝚔 𝙷𝚎𝚛𝚎</b></a>
